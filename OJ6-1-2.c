@@ -11,7 +11,7 @@ int main()
         {
             printf(" ");
         }
-        for (k = 0; k < 2 * (-fabs(l)+n) + 1; k++)
+        for (k = 0; k < 2 * (-fabs(l) + n) + 1; k++)
         {
             printf("*");
         }

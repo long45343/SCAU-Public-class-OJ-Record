@@ -14,7 +14,7 @@ int main()
         {
             printf("%d", k);
         }
-        k=-fabs(l) + n;
+        k = -fabs(l) + n;
         printf("%d", k);
         for (k = -fabs(l) + n - 1; k > 0; k--)
         {

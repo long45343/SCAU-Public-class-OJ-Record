@@ -1,4 +1,4 @@
-#include "stdio.h"
+#include <stdio.h>
 long fanc(int n)
 {
     long i, r = 1;
